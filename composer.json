@@ -1,0 +1,44 @@
+{
+    "name": "kilowhat/flarum-ext-guest-posting",
+    "description": "Enable guest posting",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "require-dev": {
+        "flarum/mentions": "*",
+        "fof/polls": "*"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alter\\GuestPosting\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Guest Posting",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-user-secret",
+                "backgroundColor": "#062871",
+                "color": "#fff"
+            },
+            "optional-dependencies": [
+                "flarum/mentions",
+                "fof/polls"
+            ]
+        }
+    }
+}
