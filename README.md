@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of convo-extensions/flarum-ext-guest-posting.** Not for installation: use [Packagist](https://packagist.org/packages/convo-extensions/flarum-ext-guest-posting) or the [upstream repository](https://github.com/convo-extensions/flarum-ext-guest-posting).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**8** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-12-03 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-12-06 | `>=0.1.0-beta.13 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.1.1) |
+| `0.2.0` | 2020-12-03 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.2.0) |
+| `0.2.1` | 2020-12-03 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.2.1) |
+| `0.2.2` | 2020-12-06 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.2.2) |
+| `0.2.3` | 2021-01-03 | `>=0.1.0-beta.14 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.2.3) |
+| `0.3.0` | 2021-03-29 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v0.3.0) |
+| `1.0.0` | 2021-06-28 | `^1.0` | [Browse](https://github.com/flarchive/convo-extensions-flarum-ext-guest-posting/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/convo-extensions-flarum-ext-guest-posting.json](https://github.com/flarchive/archive-index/blob/main/packages/convo-extensions-flarum-ext-guest-posting.json)
 
